@@ -1,7 +1,7 @@
 
 # Hi, I'm Musa Mani 👋
 
-CEO & Founding Member of DezBet GmbH | Cybersecurity Consultant | Cybersecurity Student | Based In Switzerland 🇨🇭
+CEO & Founding Member of Krypton GmbH | In House CEO of DezBet | Cybersecurity Student | Based In Switzerland 🇨🇭
 
 ## 🛠 Skills
 + Python and Java
